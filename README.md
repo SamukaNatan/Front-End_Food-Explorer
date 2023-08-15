@@ -7,7 +7,6 @@
 ## 💻 Sobre:
 
 O aplicativo que desenvolveremos é um cardápio digital para um restaurante fictício, conhecido como foodExplorer.
-Neste desafio foram abordados os seguintes temas:
 
 - React;
 - Routes;
