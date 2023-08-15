@@ -63,10 +63,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/LidianeDiniz/API_Food_Explorer.git
+$ git clone https://github.com/SamukaNatan/Back-End_Food-Explorer
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone https://github.com/LidianeDiniz/API_Food_Explorer.git
+$ cd + sua pasta + git clone https://github.com/SamukaNatan/Back-End_Food-Explorer
 
 # Instale as dependências
 $ npm install
@@ -91,10 +91,10 @@ $ password: 112233
 ```bash
 
 # Clone este repositório
-$ https://github.com/LidianeDiniz/Frontend_foodExplorer.git
+$ https://github.com/SamukaNatan/Front-End_Food-Explorer
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone https://github.com/LidianeDiniz/Frontend_foodExplorer.git
+$ cd + sua pasta + git clone https://github.com/SamukaNatan/Front-End_Food-Explorer
 
 
 # Instale as dependências com:
