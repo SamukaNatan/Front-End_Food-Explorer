@@ -129,7 +129,7 @@ Neste desafio foram abordados os seguintes temas:
 
 ---
 ## Deploy do projeto.
-https://food-explorer-lidiane-diniz.netlify.app/
+https://64dbe45d5541aa34497b2216--celadon-kulfi-d38970.netlify.app/
 
 
 ---
